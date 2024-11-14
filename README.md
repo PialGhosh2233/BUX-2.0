@@ -1,6 +1,6 @@
-### Online Course Payment System
+### BUX 2.0
 
-This project implements an **Online Course Payment System**, allowing students to register, log in, and securely make payments for the courses they wish to enroll in. The system provides an intuitive and seamless flow for course selection, payment processing, and transaction confirmation, ensuring a smooth experience for students.
+This project implements an **Online e-learning platform**, allowing students to register, log in, select course and securely make payments for the courses they wish to enroll in. The system provides an intuitive and seamless flow for course selection, payment processing, and transaction confirmation, ensuring a smooth experience for students.
 
 #### Features:
 - **User Registration & Login**: Students can sign up and log in securely to access courses.
@@ -21,7 +21,7 @@ This project implements an **Online Course Payment System**, allowing students t
 #### Installation:
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/online-course-payment-system.git
+   git clone https://github.com/yourusername/BUX2.0-git
    ```
 2. Configure the database by importing the SQL schema from `dbConnection.php`.
 3. Set up a local server (e.g., XAMPP or WAMP) and place the project folder in the `htdocs` directory.
