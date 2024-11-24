@@ -21,7 +21,7 @@ This project implements an **Online e-learning platform**, allowing students to 
 #### Installation:
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/BUX2.0-git
+   git clone https://github.com/PialGhosh2233/BUX-2.0.git
    ```
 2. Configure the database by importing the SQL schema from `dbConnection.php`.
 3. Set up a local server (e.g., XAMPP or WAMP) and place the project folder in the `htdocs` directory.
